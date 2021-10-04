@@ -1,6 +1,6 @@
 # Project Name: Driving School
 
-# Live Link: https://drive-safer.netlify.app/
+# Live Link: https://driving-school-react.netlify.app/
 
 # Features:
     ## Drive training school site.
